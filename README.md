@@ -8,3 +8,4 @@ Lista de Proyectos:
   - Asginar Dinamcamente nombre la imagen del testimonio.
   - Importar los props de los testimonios para optimiza el codigo.
 + Contador de Clics.
++ Calculadora.
