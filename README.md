@@ -9,3 +9,6 @@ Lista de Proyectos:
   - Importar los props de los testimonios para optimiza el codigo.
 + Contador de Clics.
 + Calculadora.
+  - En App.js en el crear un componenete para el logotipo de freeCodeCamp.
+  - Implementar correcciones para caso que no sean detectado en el proyecto(ej. Detectar expresiones no definidas).
++ Aplicacion de Tareas
