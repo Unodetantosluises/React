@@ -11,4 +11,7 @@ Lista de Proyectos:
 + Calculadora.
   - En App.js en el crear un componenete para el logotipo de freeCodeCamp.
   - Implementar correcciones para caso que no sean detectado en el proyecto(ej. Detectar expresiones no definidas).
-+ Aplicacion de Tareas
++ Aplicacion de Tareas.
+  - ¿Como almacenarias las tareas que ingrese el usuario?
+  - Implementar el estado de las preguntas sin el componente intermedio.
++ Componentes de Clase.
